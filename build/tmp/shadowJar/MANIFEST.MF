@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Premain-Class: doomsday.agent.DoomsdayAgent
+Agent-Class: doomsday.agent.DoomsdayAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Main-Class: doomsday.attach.Injector
+
